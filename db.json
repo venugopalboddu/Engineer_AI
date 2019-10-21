@@ -1,0 +1,1225 @@
+{
+  "posts": [
+    {
+      "created_at": "2019-10-21T09:29:27.000Z",
+      "title": "Pavlov’s Dog: The root of your smartphone addiction",
+      "url": "https://www.gadgetsinflux.com/pavlovs-dog-and-the-notification-ding-your-smartphone-glue/",
+      "author": "bibekgreen",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571650167,
+      "_tags": [
+        "story",
+        "author_bibekgreen",
+        "story_21310510"
+      ],
+      "objectID": "21310510",
+      "_highlightResult": {
+        "title": {
+          "value": "Pavlov’s Dog: The root of your smartphone addiction",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.gadgetsinflux.com/pavlovs-dog-and-the-notification-ding-your-smartphone-glue/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "bibekgreen",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 2
+    },
+    {
+      "created_at": "2019-10-21T09:45:38.000Z",
+      "title": "Node.js 12 Transitioned into LTS",
+      "url": "https://github.com/nodejs/node/releases/tag/v12.13.0",
+      "author": "vhiairrassary",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651138,
+      "_tags": [
+        "story",
+        "author_vhiairrassary",
+        "story_21310554"
+      ],
+      "objectID": "21310554",
+      "_highlightResult": {
+        "title": {
+          "value": "Node.js 12 Transitioned into LTS",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://github.com/nodejs/node/releases/tag/v12.13.0",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "vhiairrassary",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 3
+    },
+    {
+      "created_at": "2019-10-21T09:44:54.000Z",
+      "title": "Role of Tools and ENV in Behavior, Why I Switched to Ubuntu/VSCode from Arch/Vim",
+      "url": "https://msvalina.org/2019/09/role-of-tools-and-environment-in-behavior-and-why-i-switched-to-ubuntu-vscode-from-arch-vim.html",
+      "author": "msvalina",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651094,
+      "_tags": [
+        "story",
+        "author_msvalina",
+        "story_21310550"
+      ],
+      "objectID": "21310550",
+      "_highlightResult": {
+        "title": {
+          "value": "Role of Tools and ENV in Behavior, Why I Switched to Ubuntu/VSCode from Arch/Vim",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://msvalina.org/2019/09/role-of-tools-and-environment-in-behavior-and-why-i-switched-to-ubuntu-vscode-from-arch-vim.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "msvalina",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 4
+    },
+    {
+      "created_at": "2019-10-21T09:42:47.000Z",
+      "title": "Understanding JavaScript Proxy. Preserving Backward Compatibility in a Library",
+      "url": "https://wanago.io/2019/10/21/understanding-proxy-preserving-library-backward-compatibility/",
+      "author": "mwanago",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571650967,
+      "_tags": [
+        "story",
+        "author_mwanago",
+        "story_21310542"
+      ],
+      "objectID": "21310542",
+      "_highlightResult": {
+        "title": {
+          "value": "Understanding JavaScript Proxy. Preserving Backward Compatibility in a Library",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://wanago.io/2019/10/21/understanding-proxy-preserving-library-backward-compatibility/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "mwanago",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 5
+    },
+    {
+      "created_at": "2019-10-21T09:45:38.000Z",
+      "title": "Node.js 12 Transitioned into LTS",
+      "url": "https://github.com/nodejs/node/releases/tag/v12.13.0",
+      "author": "vhiairrassary",
+      "points": 2,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651138,
+      "_tags": [
+        "story",
+        "author_vhiairrassary",
+        "story_21310554"
+      ],
+      "objectID": "21310554",
+      "_highlightResult": {
+        "title": {
+          "value": "Node.js 12 Transitioned into LTS",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://github.com/nodejs/node/releases/tag/v12.13.0",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "vhiairrassary",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 6
+    },
+    {
+      "created_at": "2019-10-21T09:44:54.000Z",
+      "title": "Role of Tools and ENV in Behavior, Why I Switched to Ubuntu/VSCode from Arch/Vim",
+      "url": "https://msvalina.org/2019/09/role-of-tools-and-environment-in-behavior-and-why-i-switched-to-ubuntu-vscode-from-arch-vim.html",
+      "author": "msvalina",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651094,
+      "_tags": [
+        "story",
+        "author_msvalina",
+        "story_21310550"
+      ],
+      "objectID": "21310550",
+      "_highlightResult": {
+        "title": {
+          "value": "Role of Tools and ENV in Behavior, Why I Switched to Ubuntu/VSCode from Arch/Vim",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://msvalina.org/2019/09/role-of-tools-and-environment-in-behavior-and-why-i-switched-to-ubuntu-vscode-from-arch-vim.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "msvalina",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 7
+    },
+    {
+      "created_at": "2019-10-21T09:45:38.000Z",
+      "title": "Node.js 12 Transitioned into LTS",
+      "url": "https://github.com/nodejs/node/releases/tag/v12.13.0",
+      "author": "vhiairrassary",
+      "points": 2,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651138,
+      "_tags": [
+        "story",
+        "author_vhiairrassary",
+        "story_21310554"
+      ],
+      "objectID": "21310554",
+      "_highlightResult": {
+        "title": {
+          "value": "Node.js 12 Transitioned into LTS",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://github.com/nodejs/node/releases/tag/v12.13.0",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "vhiairrassary",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 8
+    },
+    {
+      "created_at": "2019-10-21T09:44:54.000Z",
+      "title": "Role of Tools and ENV in Behavior, Why I Switched to Ubuntu/VSCode from Arch/Vim",
+      "url": "https://msvalina.org/2019/09/role-of-tools-and-environment-in-behavior-and-why-i-switched-to-ubuntu-vscode-from-arch-vim.html",
+      "author": "msvalina",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651094,
+      "_tags": [
+        "story",
+        "author_msvalina",
+        "story_21310550"
+      ],
+      "objectID": "21310550",
+      "_highlightResult": {
+        "title": {
+          "value": "Role of Tools and ENV in Behavior, Why I Switched to Ubuntu/VSCode from Arch/Vim",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://msvalina.org/2019/09/role-of-tools-and-environment-in-behavior-and-why-i-switched-to-ubuntu-vscode-from-arch-vim.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "msvalina",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 9
+    },
+    {
+      "created_at": "2019-10-21T09:42:47.000Z",
+      "title": "Understanding JavaScript Proxy. Preserving Backward Compatibility in a Library",
+      "url": "https://wanago.io/2019/10/21/understanding-proxy-preserving-library-backward-compatibility/",
+      "author": "mwanago",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571650967,
+      "_tags": [
+        "story",
+        "author_mwanago",
+        "story_21310542"
+      ],
+      "objectID": "21310542",
+      "_highlightResult": {
+        "title": {
+          "value": "Understanding JavaScript Proxy. Preserving Backward Compatibility in a Library",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://wanago.io/2019/10/21/understanding-proxy-preserving-library-backward-compatibility/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "mwanago",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 10
+    },
+    {
+      "created_at": "2019-10-21T09:41:48.000Z",
+      "title": "Install Xubuntu 19.10 on a Raspberry Pi 4",
+      "url": "https://bluesabre.org/2019/10/20/install-xubuntu-19-10-on-a-raspberry-pi-4",
+      "author": "mariuz",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571650908,
+      "_tags": [
+        "story",
+        "author_mariuz",
+        "story_21310538"
+      ],
+      "objectID": "21310538",
+      "_highlightResult": {
+        "title": {
+          "value": "Install Xubuntu 19.10 on a Raspberry Pi 4",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://bluesabre.org/2019/10/20/install-xubuntu-19-10-on-a-raspberry-pi-4",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "mariuz",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 11
+    },
+    {
+      "created_at": "2019-10-21T09:29:27.000Z",
+      "title": "Pavlov’s Dog: The root of your smartphone addiction",
+      "url": "https://www.gadgetsinflux.com/pavlovs-dog-and-the-notification-ding-your-smartphone-glue/",
+      "author": "bibekgreen",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571650167,
+      "_tags": [
+        "story",
+        "author_bibekgreen",
+        "story_21310510"
+      ],
+      "objectID": "21310510",
+      "_highlightResult": {
+        "title": {
+          "value": "Pavlov’s Dog: The root of your smartphone addiction",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.gadgetsinflux.com/pavlovs-dog-and-the-notification-ding-your-smartphone-glue/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "bibekgreen",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 12
+    },
+    {
+      "created_at": "2019-10-21T09:42:47.000Z",
+      "title": "Understanding JavaScript Proxy. Preserving Backward Compatibility in a Library",
+      "url": "https://wanago.io/2019/10/21/understanding-proxy-preserving-library-backward-compatibility/",
+      "author": "mwanago",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571650967,
+      "_tags": [
+        "story",
+        "author_mwanago",
+        "story_21310542"
+      ],
+      "objectID": "21310542",
+      "_highlightResult": {
+        "title": {
+          "value": "Understanding JavaScript Proxy. Preserving Backward Compatibility in a Library",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://wanago.io/2019/10/21/understanding-proxy-preserving-library-backward-compatibility/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "mwanago",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 13
+    },
+    {
+      "created_at": "2019-10-21T09:41:48.000Z",
+      "title": "Install Xubuntu 19.10 on a Raspberry Pi 4",
+      "url": "https://bluesabre.org/2019/10/20/install-xubuntu-19-10-on-a-raspberry-pi-4",
+      "author": "mariuz",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571650908,
+      "_tags": [
+        "story",
+        "author_mariuz",
+        "story_21310538"
+      ],
+      "objectID": "21310538",
+      "_highlightResult": {
+        "title": {
+          "value": "Install Xubuntu 19.10 on a Raspberry Pi 4",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://bluesabre.org/2019/10/20/install-xubuntu-19-10-on-a-raspberry-pi-4",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "mariuz",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 14
+    },
+    {
+      "created_at": "2019-10-21T09:52:14.000Z",
+      "title": "Developers Pitch Your Project and Get Funding by the Decision of the Communities",
+      "url": "http://myproject.codemotion.com",
+      "author": "codemotion",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651534,
+      "_tags": [
+        "story",
+        "author_codemotion",
+        "story_21310589"
+      ],
+      "objectID": "21310589",
+      "_highlightResult": {
+        "title": {
+          "value": "Developers Pitch Your Project and Get Funding by the Decision of the Communities",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "http://myproject.codemotion.com",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "codemotion",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 15
+    },
+    {
+      "created_at": "2019-10-21T09:52:14.000Z",
+      "title": "Developers Pitch Your Project and Get Funding by the Decision of the Communities",
+      "url": "http://myproject.codemotion.com",
+      "author": "codemotion",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651534,
+      "_tags": [
+        "story",
+        "author_codemotion",
+        "story_21310589"
+      ],
+      "objectID": "21310589",
+      "_highlightResult": {
+        "title": {
+          "value": "Developers Pitch Your Project and Get Funding by the Decision of the Communities",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "http://myproject.codemotion.com",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "codemotion",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 16
+    },
+    {
+      "created_at": "2019-10-21T09:52:14.000Z",
+      "title": "Developers Pitch Your Project and Get Funding by the Decision of the Communities",
+      "url": "http://myproject.codemotion.com",
+      "author": "codemotion",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651534,
+      "_tags": [
+        "story",
+        "author_codemotion",
+        "story_21310589"
+      ],
+      "objectID": "21310589",
+      "_highlightResult": {
+        "title": {
+          "value": "Developers Pitch Your Project and Get Funding by the Decision of the Communities",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "http://myproject.codemotion.com",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "codemotion",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 17
+    },
+    {
+      "created_at": "2019-10-21T09:52:04.000Z",
+      "title": "Smart Spies: Amazon Alexa Eavesdropping",
+      "url": "https://www.youtube.com/watch?v=A3n-0AbXznc",
+      "author": "doener",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651524,
+      "_tags": [
+        "story",
+        "author_doener",
+        "story_21310587"
+      ],
+      "objectID": "21310587",
+      "_highlightResult": {
+        "title": {
+          "value": "Smart Spies: Amazon Alexa Eavesdropping",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.youtube.com/watch?v=A3n-0AbXznc",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "doener",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 18
+    },
+    {
+      "created_at": "2019-10-21T09:52:04.000Z",
+      "title": "Smart Spies: Amazon Alexa Eavesdropping",
+      "url": "https://www.youtube.com/watch?v=A3n-0AbXznc",
+      "author": "doener",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651524,
+      "_tags": [
+        "story",
+        "author_doener",
+        "story_21310587"
+      ],
+      "objectID": "21310587",
+      "_highlightResult": {
+        "title": {
+          "value": "Smart Spies: Amazon Alexa Eavesdropping",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.youtube.com/watch?v=A3n-0AbXznc",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "doener",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 19
+    },
+    {
+      "created_at": "2019-10-21T09:54:29.000Z",
+      "title": "Is Another AI Winter Coming?",
+      "url": "https://hackernoon.com/is-another-ai-winter-coming-ac552669e58c",
+      "author": "mellosouls",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651669,
+      "_tags": [
+        "story",
+        "author_mellosouls",
+        "story_21310599"
+      ],
+      "objectID": "21310599",
+      "_highlightResult": {
+        "title": {
+          "value": "Is Another AI Winter Coming?",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://hackernoon.com/is-another-ai-winter-coming-ac552669e58c",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "mellosouls",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 20
+    },
+    {
+      "created_at": "2019-10-21T09:53:09.000Z",
+      "title": "Smart Spies: Google Home Eavesdropping",
+      "url": "https://www.youtube.com/watch?v=X2gddqD1wUI",
+      "author": "doener",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651589,
+      "_tags": [
+        "story",
+        "author_doener",
+        "story_21310592"
+      ],
+      "objectID": "21310592",
+      "_highlightResult": {
+        "title": {
+          "value": "Smart Spies: Google Home Eavesdropping",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.youtube.com/watch?v=X2gddqD1wUI",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "doener",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 21
+    },
+    {
+      "created_at": "2019-10-21T09:54:29.000Z",
+      "title": "Is Another AI Winter Coming?",
+      "url": "https://hackernoon.com/is-another-ai-winter-coming-ac552669e58c",
+      "author": "mellosouls",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651669,
+      "_tags": [
+        "story",
+        "author_mellosouls",
+        "story_21310599"
+      ],
+      "objectID": "21310599",
+      "_highlightResult": {
+        "title": {
+          "value": "Is Another AI Winter Coming?",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://hackernoon.com/is-another-ai-winter-coming-ac552669e58c",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "mellosouls",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 22
+    },
+    {
+      "created_at": "2019-10-21T09:53:09.000Z",
+      "title": "Smart Spies: Google Home Eavesdropping",
+      "url": "https://www.youtube.com/watch?v=X2gddqD1wUI",
+      "author": "doener",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651589,
+      "_tags": [
+        "story",
+        "author_doener",
+        "story_21310592"
+      ],
+      "objectID": "21310592",
+      "_highlightResult": {
+        "title": {
+          "value": "Smart Spies: Google Home Eavesdropping",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.youtube.com/watch?v=X2gddqD1wUI",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "doener",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 23
+    },
+    {
+      "created_at": "2019-10-21T10:00:10.000Z",
+      "title": "Can you solve it? The four points, two distances problem",
+      "url": "https://www.theguardian.com/science/2019/oct/21/can-you-solve-it-the-four-points-two-distances-problem",
+      "author": "ColinWright",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571652010,
+      "_tags": [
+        "story",
+        "author_ColinWright",
+        "story_21310616"
+      ],
+      "objectID": "21310616",
+      "_highlightResult": {
+        "title": {
+          "value": "Can you solve it? The four points, two distances problem",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.theguardian.com/science/2019/oct/21/can-you-solve-it-the-four-points-two-distances-problem",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "ColinWright",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 24
+    },
+    {
+      "created_at": "2019-10-21T09:55:57.000Z",
+      "title": "EU-Fossa Developer Survey",
+      "url": "https://ec.europa.eu/eusurvey/runner/EUFOSSA2-Survey",
+      "author": "Krasnol",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651757,
+      "_tags": [
+        "story",
+        "author_Krasnol",
+        "story_21310604"
+      ],
+      "objectID": "21310604",
+      "_highlightResult": {
+        "title": {
+          "value": "EU-Fossa Developer Survey",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://ec.europa.eu/eusurvey/runner/EUFOSSA2-Survey",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "Krasnol",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 25
+    },
+    {
+      "created_at": "2019-10-21T09:55:48.000Z",
+      "title": "Ask HN: Slack Alternatives?",
+      "url": null,
+      "author": "maest",
+      "points": 3,
+      "story_text": "I run Slack on Firefox and it&#x27;s gotten to the point where the app is unusable, mostly because of the ridiculous memory consumption.<p>This was noticed not just by me but by my entire team.<p>So, at this point, it makes sense to move away from Slack.<p>What are some alternatives? In terms of features:\n* channels and private messaging\n* share images and files\n* (maybe) support for some of the automated commands you can integrate with Slack.",
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651748,
+      "_tags": [
+        "story",
+        "author_maest",
+        "story_21310603",
+        "ask_hn"
+      ],
+      "objectID": "21310603",
+      "_highlightResult": {
+        "title": {
+          "value": "Ask HN: Slack Alternatives?",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "maest",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "I run Slack on Firefox and it's gotten to the point where the app is unusable, mostly because of the ridiculous memory consumption.<p>This was noticed not just by me but by my entire team.<p>So, at this point, it makes sense to move away from Slack.<p>What are some alternatives? In terms of features:\n* channels and private messaging\n* share images and files\n* (maybe) support for some of the automated commands you can integrate with Slack.",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 26
+    },
+    {
+      "created_at": "2019-10-21T09:54:29.000Z",
+      "title": "Is Another AI Winter Coming?",
+      "url": "https://hackernoon.com/is-another-ai-winter-coming-ac552669e58c",
+      "author": "mellosouls",
+      "points": 2,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651669,
+      "_tags": [
+        "story",
+        "author_mellosouls",
+        "story_21310599"
+      ],
+      "objectID": "21310599",
+      "_highlightResult": {
+        "title": {
+          "value": "Is Another AI Winter Coming?",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://hackernoon.com/is-another-ai-winter-coming-ac552669e58c",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "mellosouls",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 27
+    },
+    {
+      "created_at": "2019-10-21T09:53:09.000Z",
+      "title": "Smart Spies: Google Home Eavesdropping",
+      "url": "https://www.youtube.com/watch?v=X2gddqD1wUI",
+      "author": "doener",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651589,
+      "_tags": [
+        "story",
+        "author_doener",
+        "story_21310592"
+      ],
+      "objectID": "21310592",
+      "_highlightResult": {
+        "title": {
+          "value": "Smart Spies: Google Home Eavesdropping",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.youtube.com/watch?v=X2gddqD1wUI",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "doener",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 28
+    },
+    {
+      "created_at": "2019-10-21T09:55:57.000Z",
+      "title": "EU-Fossa Developer Survey",
+      "url": "https://ec.europa.eu/eusurvey/runner/EUFOSSA2-Survey",
+      "author": "Krasnol",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651757,
+      "_tags": [
+        "story",
+        "author_Krasnol",
+        "story_21310604"
+      ],
+      "objectID": "21310604",
+      "_highlightResult": {
+        "title": {
+          "value": "EU-Fossa Developer Survey",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://ec.europa.eu/eusurvey/runner/EUFOSSA2-Survey",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "Krasnol",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 29
+    },
+    {
+      "created_at": "2019-10-21T09:55:48.000Z",
+      "title": "Ask HN: Slack Alternatives?",
+      "url": null,
+      "author": "maest",
+      "points": 3,
+      "story_text": "I run Slack on Firefox and it&#x27;s gotten to the point where the app is unusable, mostly because of the ridiculous memory consumption.<p>This was noticed not just by me but by my entire team.<p>So, at this point, it makes sense to move away from Slack.<p>What are some alternatives? In terms of features:\n* channels and private messaging\n* share images and files\n* (maybe) support for some of the automated commands you can integrate with Slack.",
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651748,
+      "_tags": [
+        "story",
+        "author_maest",
+        "story_21310603",
+        "ask_hn"
+      ],
+      "objectID": "21310603",
+      "_highlightResult": {
+        "title": {
+          "value": "Ask HN: Slack Alternatives?",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "maest",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "I run Slack on Firefox and it's gotten to the point where the app is unusable, mostly because of the ridiculous memory consumption.<p>This was noticed not just by me but by my entire team.<p>So, at this point, it makes sense to move away from Slack.<p>What are some alternatives? In terms of features:\n* channels and private messaging\n* share images and files\n* (maybe) support for some of the automated commands you can integrate with Slack.",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 30
+    },
+    {
+      "created_at": "2019-10-21T10:00:10.000Z",
+      "title": "Can you solve it? The four points, two distances problem",
+      "url": "https://www.theguardian.com/science/2019/oct/21/can-you-solve-it-the-four-points-two-distances-problem",
+      "author": "ColinWright",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571652010,
+      "_tags": [
+        "story",
+        "author_ColinWright",
+        "story_21310616"
+      ],
+      "objectID": "21310616",
+      "_highlightResult": {
+        "title": {
+          "value": "Can you solve it? The four points, two distances problem",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.theguardian.com/science/2019/oct/21/can-you-solve-it-the-four-points-two-distances-problem",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "ColinWright",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 31
+    },
+    {
+      "created_at": "2019-10-21T09:54:29.000Z",
+      "title": "Is Another AI Winter Coming?",
+      "url": "https://hackernoon.com/is-another-ai-winter-coming-ac552669e58c",
+      "author": "mellosouls",
+      "points": 2,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651669,
+      "_tags": [
+        "story",
+        "author_mellosouls",
+        "story_21310599"
+      ],
+      "objectID": "21310599",
+      "_highlightResult": {
+        "title": {
+          "value": "Is Another AI Winter Coming?",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://hackernoon.com/is-another-ai-winter-coming-ac552669e58c",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "mellosouls",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 32
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
